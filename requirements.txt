@@ -1,0 +1,2 @@
+# Este proyecto solo utiliza la librería estándar de Python 3.x.
+# No se requieren instalaciones adicionales mediante pip.
